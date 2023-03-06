@@ -1,5 +1,6 @@
 import * as React from 'react';
 import { Route, Routes } from 'react-router-dom';
+import { CollectionYear6 } from 'Components/Pages/Collection/Instances/CollectionYear6';
 import { CollectionYear5 } from 'Components/Pages/Collection/Instances/CollectionYear5';
 import { CollectionYear4 } from 'Components/Pages/Collection/Instances/CollectionYear4';
 import { CollectionYear3 } from 'Components/Pages/Collection/Instances/CollectionYear3';
@@ -11,7 +12,8 @@ import { About } from 'Components/Pages/About';
 export const AppRouter: React.FunctionComponent = () => {
   return (
     <Routes>
-      <Route index element={<CollectionYear5 />} />
+      <Route index element={<CollectionYear6 />} />
+      <Route path="/year-5" element={<CollectionYear5 />} />
       <Route path="/year-4" element={<CollectionYear4 />} />
       <Route path="/year-3" element={<CollectionYear3 />} />
       <Route path="/year-2" element={<CollectionYear2 />} />

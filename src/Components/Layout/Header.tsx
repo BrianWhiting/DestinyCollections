@@ -9,7 +9,8 @@ import { Logo } from 'Images/Logo';
 import { HiddenWhenUnauthorized } from 'Components/Utilities/HiddenWhenUnauthorized';
 
 const links = [
-  { name: 'Year 5', to: '/' },
+  { name: 'Year 6', to: '/' },
+  { name: 'Year 5', to: '/year-5' },
   { name: 'Year 4', to: '/year-4' },
   { name: 'Year 3', to: '/year-3' },
   { name: 'Year 2', to: '/year-2' },
