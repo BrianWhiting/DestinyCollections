@@ -281,12 +281,12 @@ export const collectionDataYear6: CollectionData = {
                   268260372, // Regnant
                   2508948099, // Caretaker
                 ],
-                // [
-                //   1580095978, // Imperial Decree
-                //   2699262254, // Goldtusk
-                //   2626817462, // Throne-Cleaver
-                //   502550538, // Death's Razor
-                // ],
+                [
+                  318443586, // Imperial Decree
+                  3371413057, // Goldtusk
+                  3371413059, // Throne-Cleaver
+                  3371413056, // Death's Razor
+                ],
               ],
             },
             {
@@ -304,14 +304,15 @@ export const collectionDataYear6: CollectionData = {
               season: 20,
               items: [3056490591, 3031934630, 988330314, 2549387168, 1159113819], // Unyielding Favor Set
             },
-            // {
-            //   name: 'Exotic Mission',
-            //   season: 20,
-            //   items: [
-            //     2012273462, // Scribetrace Shell (Ghost Shell)
-            //     908153538, // Brimful of Asher (Emblem)
-            //   ],
-            // },
+            {
+              name: '//node.ovrd.AVALON//',
+              season: 20,
+              items: [
+                3118061005, // Vexcalibur
+                2012273462, // Scribetrace Shell (Ghost Shell)
+                908153538, // Brimful of Asher (Emblem)
+              ],
+            },
             {
               name: 'Extras',
               season: 20,
@@ -424,10 +425,10 @@ export const collectionDataYear6: CollectionData = {
                 [
                   3334797172, // Acolyte's Ambition (Wormhusk Crown)
                   794569992, // Seiðr (Young Ahamkara's Spine)
-                  2803692309, // Augmented Auspice (Synthoceps)
                   1178901683, // Hjörþrimul (Loreley Splendor Helm)
-                  3303992972, // Occisor Draconum (Sunbracers)
+                  2803692309, // Augmented Auspice (Synthoceps)
                   913296044, // Phoenix Renascence (Dawn Chorus)
+                  3303992972, // Occisor Draconum (Sunbracers)
                 ],
               ],
             },
