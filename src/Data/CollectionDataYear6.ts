@@ -392,6 +392,103 @@ export const collectionDataYear6: CollectionData = {
       ],
     },
     {
+      name: 'Holiday & Special Events',
+      groups: [
+        {
+          name: 'Guardian Games',
+          sets: [
+            {
+              name: 'Weapons',
+              season: 16,
+              items: [
+                1389546626, // Taraxippos
+                3559361670, // The Title
+              ],
+            },
+            {
+              name: 'Hunter Armor',
+              season: 16,
+              items: [
+                [650418244, 597612829, 462395043, 2538781119, 4039169178], // Aspiring Challenger Set
+                [366019830], // Serpent's Glory Mantle
+              ],
+            },
+            {
+              name: 'Titan Armor',
+              season: 16,
+              items: [
+                [4256854144, 1822927441, 4097505799, 1654077219, 983967254], // Enduring Conqueror Set
+                [537041732], // Lion's Reign Mark
+              ],
+            },
+            {
+              name: 'Warlock Armor',
+              season: 16,
+              items: [
+                [3159710857, 568239104, 754884040, 3941026874, 2881439013], // Resolute Champion Set
+                [1013401891], // Phoenix's Ascent Bond
+              ],
+            },
+            {
+              name: 'Emotes',
+              season: 16,
+              items: [
+                133558437, // Championship Dance
+                3632912674, // Curling Shuffle
+                1799214498, // Gladiator Blows
+                1577190509, // Darts
+                3470431947, // Weightlifter
+                946867072, // Free Throw
+              ],
+            },
+            {
+              name: 'Ghosts',
+              season: 16,
+              items: [
+                [
+                  682455839, // Gridiron Shell
+                  682455836, // Padded Armor Shell
+                  682455838, // Tug-of-War Shell
+                ],
+                [
+                  247604608, // Medal Collector Projection
+                  247604609, // Pumping Iron Projection
+                ],
+              ],
+            },
+            {
+              name: 'Sparrows',
+              season: 16,
+              items: [
+                3493861052, // Barnstormer
+                2779499874, // Luminous Paragon
+                3493861055, // Shadow Box
+                3493861054, // Triple Bogey
+              ],
+            },
+            {
+              name: 'Ships',
+              season: 16,
+              items: [
+                1147673599, // Stygian Courser
+                1147673598, // Victor's Palanquin
+              ],
+            },
+            {
+              name: 'Extras',
+              season: 16,
+              items: [
+                637391773, // Give 'Em the Chair (Finisher)
+                4048242887, // Burnished Acclaim (Shader)
+                2132252935, // Coronal Bloom (Shader)
+                3369249323, // Colorful Motes Effects (Transmat Effect)
+              ],
+            },
+          ],
+        },
+      ],
+    },
+    {
       name: 'Eververse',
       groups: [
         {
