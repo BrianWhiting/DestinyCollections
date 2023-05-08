@@ -53,6 +53,7 @@ export const collectionDataYear6: CollectionData = {
               items: [
                 613634302, // Unbroken Projection (Ghost Projection)
                 3041031340, // Crucible Horizon (Shader)
+                908153550, // Crucible Ascendant Division (Emblem)
               ],
             },
           ],
@@ -265,6 +266,7 @@ export const collectionDataYear6: CollectionData = {
               items: [
                 3287231362, // Dream Demon (Sparrow)
                 3403636746, // Gift of Cruelty (Ship)
+                908153541, // A Good Night's Sleep (Emblem)
                 908153540, // Terrors Uprooted (Emblem)
                 56137738, // Oxidized Lead (Shader)
                 56137739, // Opaline Shatter (Shader)
