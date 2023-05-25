@@ -16,16 +16,47 @@ export const collectionDataYear6: CollectionData = {
               ],
             },
             {
+              name: 'Weapons',
+              season: 21,
+              items: [
+                491078457, // Positive Outlook
+              ],
+            },
+            {
               name: 'Nightfall: The Ordeal Weapons',
               season: 20,
               items: [
                 [
+                  1854753405, // The Militia's Birthright
+                  3832743906, // Hung Jury SR4
                   213264394, // Buzzard
+                  1586231351, // Mindbender's Ambition
+                  1854753404, // Wendigo GL3
+                  2759590322, // THE SWARM
                 ],
                 [
+                  4162642204, // The Militia's Birthright (Adept)
+                  2883684343, // Hung Jury SR4 (Adept)
                   927835311, // Buzzard (Adept)
+                  2074041946, // Mindbender's Ambition (Adept)
+                  3915197957, // Wendigo GL3 (Adept)
+                  566740455, // THE SWARM (Adept)
                 ],
-              ]
+              ],
+            },
+            {
+              name: 'Nightfall: The Ordeal Weapons',
+              season: 21,
+              items: [
+                [
+                  3125454907, // Loaded Question
+                  3667553455, // BrayTech Osprey
+                ],
+                [
+                  2914913838, // Loaded Question (Adept)
+                  1064132738, // BrayTech Osprey (Adept)
+                ],
+              ],
             },
             {
               name: 'Extras',
@@ -33,6 +64,14 @@ export const collectionDataYear6: CollectionData = {
               items: [
                 1340943743, // Pendant Projections (Ghost Projection)
                 2410801793, // Vanguard Constancy (Shader)
+              ],
+            },
+            {
+              name: 'Extras',
+              season: 21,
+              items: [
+                3320476178, // Vanguard's Vindication (Ghost Projection)
+                3633144314, // Perfectly Balanced (Shader)
               ],
             },
           ],
@@ -48,12 +87,30 @@ export const collectionDataYear6: CollectionData = {
               ],
             },
             {
+              name: 'Weapons',
+              season: 21,
+              items: [
+                [3292795429], // Randy's Throwing Knife
+                [2073794990], // Mercurial Overreach
+              ],
+            },
+            {
               name: 'Extras',
               season: 20,
               items: [
                 613634302, // Unbroken Projection (Ghost Projection)
                 3041031340, // Crucible Horizon (Shader)
                 908153550, // Crucible Ascendant Division (Emblem)
+              ],
+            },
+            {
+              name: 'Extras',
+              season: 21,
+              items: [
+                3619964139, // One Quiet Moment (Ghost Projection)
+                1437995943, // Melting Point (Shader)
+                2069797992, // Blade Circuit (Emblem)
+                2004142280, // Division Computed (Transmat Effect)
               ],
             },
           ],
@@ -69,11 +126,26 @@ export const collectionDataYear6: CollectionData = {
               ],
             },
             {
+              name: 'Weapons',
+              season: 21,
+              items: [
+                3221722018, // Laser Painter
+              ],
+            },
+            {
               name: 'Extras',
               season: 20,
               items: [
                 2319817047, // Quatrefoil Projection (Ghost Projection)
                 817683657, // Gambit Gleam (Shader)
+              ],
+            },
+            {
+              name: 'Extras',
+              season: 21,
+              items: [
+                1181893874, // Gun and Run (Ghost Projection)
+                3485741042, // Neon Jungle (Shader)
               ],
             },
           ],
@@ -85,7 +157,22 @@ export const collectionDataYear6: CollectionData = {
               name: 'Weapons',
               season: 20,
               items: [
+                3166250992, // Allied Demand
+                1403800851, // Bite of the Fox
+                1144014195, // Dark Decider
+                2290416, // The Wizened Rebuke
                 62937067, // Jorum's Claw
+                411397829, // Gunnora's Axe
+                1028124540, // The Hero's Burden
+                2231910050, // Roar of the Bear
+              ],
+            },
+            {
+              name: 'Weapons',
+              season: 21,
+              items: [
+                1084190509, // Pressurized Precision
+                433905699, // Swarm of the Raven
               ],
             },
             {
@@ -94,6 +181,14 @@ export const collectionDataYear6: CollectionData = {
               items: [
                 908153539, // Ferrous Ferocity (Emblem)
                 2235726550, // Ferrous Silver (Shader)
+              ],
+            },
+            {
+              name: 'Extras',
+              season: 21,
+              items: [
+                2069797995, // Brazen Wolf (Emblem)
+                248670379, // Battle Tempered (Shader)
               ],
             },
           ],
@@ -106,11 +201,46 @@ export const collectionDataYear6: CollectionData = {
               season: 20,
               items: [
                 [
+                  3165143747, // Whistler's Whim
+                  2653171213, // Astral Horizon
                   4039572196, // The Immortal
+                  548809020, // Exalted Truth
+                  2653171212, // The Inquisitor
+                  906840740, // Unwavering Duty
                 ],
                 [
+                  161675590, // Whistler's Whim (Adept)
+                  854379020, // Astral Horizon (Adept)
                   3193598749, // The Immortal (Adept)
+                  1705843397, // Exalted Truth (Adept)
+                  825554997, // The Inquisitor (Adept)
+                  3444632029, // Unwavering Duty (Adept)
                 ],
+              ],
+            },
+            {
+              name: 'Weapons',
+              season: 21,
+              items: [
+                [
+                  3796795102, // The Messenger
+                  4005780578, // Unexpected Resurgence
+                ],
+                [
+                  364665267, // The Messenger (Adept)
+                  1141586039, // Unexpected Resurgence (Adept)
+                ],
+              ],
+            },
+            {
+              name: 'Extras',
+              season: 21,
+              items: [
+                3321971888, // Hero's Wake (Ghost Shell)
+                426260446, // Valiant Memory (Ship)
+                967777908, // Survivor's Journey (Sparrow)
+                1300514375, // Glorious Patina (Shader)
+                2069797994, // Dazzling Iridescence (Emblem)
               ],
             },
           ],
@@ -133,6 +263,21 @@ export const collectionDataYear6: CollectionData = {
                 [
                   3831935023, // Ballidorse Wrathweavers
                   2463947681, // Swarmers
+                ],
+              ],
+            },
+            {
+              name: 'Armor',
+              season: 21,
+              items: [
+                [
+                  3093309525, // Triton Vice
+                ],
+                [
+                  90009855, // Arbor Warden
+                ],
+                [
+                  2374129871, // Cenotaph Mask
                 ],
               ],
             },
@@ -167,6 +312,13 @@ export const collectionDataYear6: CollectionData = {
                 2573900604, // Basso Ostinato
                 1311684613, // Dimensional Hypotrochoid
                 2187717691, // Circular Logic
+              ],
+            },
+            {
+              name: 'Weapons',
+              season: 21,
+              items: [
+                1123421440, // Epochal Integration
               ],
             },
             {
@@ -274,6 +426,45 @@ export const collectionDataYear6: CollectionData = {
             },
           ],
         },
+        {
+          name: 'Ghosts of the Deep',
+          sets: [
+            {
+              name: 'Exotic Weapon',
+              season: 21,
+              items: [],
+            },
+            {
+              name: 'Weapons',
+              season: 21,
+              items: [
+              ],
+            },
+            {
+              name: 'Hunter Armor',
+              season: 21,
+              items: [],
+            },
+            {
+              name: 'Titan Armor',
+              season: 21,
+              items: [],
+            },
+            {
+              name: 'Warlock Armor',
+              season: 21,
+              items: [],
+            },
+            {
+              name: 'Extras',
+              season: 21,
+              items: [
+                2069797998, // A Grave Matter (Emblem)
+                2069797999, // Regicide (Emblem)
+              ],
+            },
+          ],
+        },
       ],
     },
     {
@@ -335,10 +526,68 @@ export const collectionDataYear6: CollectionData = {
               name: 'Extras',
               season: 20,
               items: [
-                1163767710, // Tech Witch Shell (Ghost Shell)
+                // 1163767710, // Tech Witch Shell (Ghost Shell) - Was not obtainable due to bug
                 1217115270, // Brazen Spark (Ship)
                 3250490362, // Common Nobility (Sparrow)
                 908153542, // Amethyst Stronghold (Emblem)
+              ],
+            },
+          ],
+        },
+        {
+          name: 'Season of the Deep',
+          sets: [
+            {
+              name: 'Pursuit Weapon',
+              season: 21,
+              items: [[542573208], [284919901, 284919903, 284919902]], // Last Rite and Ornaments
+            },
+            {
+              name: 'Weapons',
+              season: 21,
+              items: [
+                [
+                  3016891299, // Different Times
+                  2883484461, // Until Its Return
+                  1769847435, // A Distant Pull
+                  1081724548, // Rapacious Appetite
+                  3890055324, // Targeted Redaction
+                  4066778670, // Thin Precipice
+                ],
+                [
+                  3236112986, // Spare Rations
+                  1678205741, // Outlast
+                  4287947559, // Last Man Standing
+                  1150492185, // Sole Survivor
+                  2832639510, // Bug-Out Bag
+                  1139727256, // Just in Case
+                ],
+              ],
+            },
+            {
+              name: 'Hunter Armor',
+              season: 21,
+              items: [3332065301, 2007908580, 2213223388, 3513993870, 3499056977], // NPA "Weir-Walker" Set
+            },
+            {
+              name: 'Titan Armor',
+              season: 21,
+              items: [493786073, 431605328, 3607600504, 748663978, 2386078741], // NPA "Weir-Walker" Set
+            },
+            {
+              name: 'Warlock Armor',
+              season: 21,
+              items: [1063769568, 2966283697, 1685051367, 2797536515, 2400549110], // NPA "Weir-Walker" Set
+            },
+            {
+              name: 'Extras',
+              season: 21,
+              items: [
+                1279846187, // Síocháin's Scuba Shell (Ghost Shell)
+                3135336191, // Akashic Revelation (Ship)
+                2664281431, // To Be Remembered (Sparrow)
+                2069797997, // Depths of Memory (Emblem)
+                2069797996, // Pond Pals (Emblem)
               ],
             },
           ],
@@ -387,6 +636,49 @@ export const collectionDataYear6: CollectionData = {
                 3683636137, // Dreamtide Daybreak (Shader)
                 3683636136, // Queensguard Valor (Shader)
                 772855992, // Luminous Entrance (Transmat Effect)
+              ],
+            },
+          ],
+        },
+        {
+          name: 'Season of the Deep',
+          sets: [
+            {
+              name: 'Exotic Weapon',
+              season: 21,
+              items: [
+                1912669214, // Centrifuse
+                104264659, // Fluorescent Depth (Centrifuse Ornament)
+              ],
+            },
+            {
+              name: 'Hunter Armor',
+              season: 21,
+              items: [1078689732, 1025884317, 3404596515, 2967052607, 2686403354], // Aphotic Lamellar Set
+            },
+            {
+              name: 'Titan Armor',
+              season: 21,
+              items: [1203767498, 1250905363, 1416032573, 985859429, 2919597168], // Aphotic Lamellar Set
+            },
+            {
+              name: 'Warlock Armor',
+              season: 21,
+              items: [2541299531, 438996154, 4259321614, 2119925492, 282448855], // Aphotic Lamellar Set
+            },
+            {
+              name: 'Other',
+              season: 21,
+              items: [
+                3838423725, // Tentacle Trap (Emote)
+                2919888381, // Siren Call (Emote)
+                421047309, // White Whale (Finisher)
+                4017272394, // Deepseeker Shell (Ghost Shell)
+                1261044759, // Pressure Monitor (Ghost Projection)
+                1853085236, // Pale Reflection (Sparrow)
+                99900185, // Mesopelagic (Shader)
+                99900184, // Epipelagic (Shader)
+                763773239, // Methane Burst (Transmat Effect)
               ],
             },
           ],
@@ -642,6 +934,151 @@ export const collectionDataYear6: CollectionData = {
             },
           ],
         },
+        {
+          name: 'Season of the Deep',
+          sets: [
+            {
+              name: 'Hunter Armor',
+              season: 21,
+              items: [
+                [1622736333, 2275402172, 3435270692, 1661210822, 4179100793], // Anointed Set
+                [3617188871], // Deep Hydra
+              ],
+            },
+            {
+              name: 'Titan Armor',
+              season: 21,
+              items: [
+                [2457721283, 3129225874, 3781404502, 3530567468, 3111031679], // Godsbane Set
+                [681317097], // Heartrend
+              ],
+            },
+            {
+              name: 'Warlock Armor',
+              season: 21,
+              items: [
+                [1687001996, 882876485, 373307931, 1230102983, 3025094706], // Ancestral Set
+                [3184395484], // Hart of Steel
+              ],
+            },
+            {
+              name: 'Ornaments',
+              season: 21,
+              items: [
+                [
+                  4073089126, // Dreaming Clarity (Monte Carlo)
+                  3671432115, // Hibernal Thorns (Winterbite)
+                  4229892878, // Outrunner (Arbalest)
+                  4013202920, // Erinyes-SG1 (Conditional Finality)
+                  4118865571, // Icthyic Flight (Quicksilver Storm)
+                  467730932, // MARA Multi-Tool (MIDA Multi-Tool)
+                  683481680, // Vexplosion (Sunshot)
+                ],
+                [],
+                [
+                  1531149066, // Olmstead's Downfall (Blight Ranger)
+                  210405799, // Pressure Stabilizer (Gyrfalcon's Hauberk)
+                  1351606481, // Chivalry's Chill (Cadmus Ridge Lancecap)
+                  491397307, // Achorage (Point-Contact Cannon Brace)
+                  255749842, // Ionic Fringe (Fallen Sunstar)
+                  1855640001, // Phoenix Fusion (Starfire Protocol)
+                ],
+              ],
+            },
+            {
+              name: 'Emotes',
+              season: 21,
+              items: [
+                3317580397, // Bailing Water
+                3336918147, // Circling Sharks
+                2707077022, // Gadgeteer
+                852886749, // Peace by the Water
+                1427413670, // Kiddie Pool
+                1799025280, // Row Your Boat
+                3937296308, // A Tiny Friend
+                3486934470, // Catch of the Day
+                1253363681, // Crabcore
+                764167970, // Down Under Dance
+                153780217, // Stargazer
+                4027855847, // You Say Dance
+                311770902, // All Done
+                2203341951, // Cherubic
+                2195978880, // Mime Time
+              ],
+            },
+            {
+              name: 'Ghosts',
+              season: 21,
+              items: [
+                [
+                  3193788495, // Clicker
+                  408388873, // Constant Vigilance Shell
+                  408388872, // Digital Pet Shell
+                  408388874, // Maglev Shell
+                  408388875, // ROV Shell
+                  408388879, // Scribe's Shell
+                ],
+                [
+                  1748123664, // All Together Now
+                  1748123671, // Pouka Pal
+                  1748123670, // MARA Monitor
+                  1748123669, // Coronal Halo
+                ],
+              ],
+            },
+            {
+              name: 'Sparrows',
+              season: 21,
+              items: [
+                709001493, // Quarantine Runner
+                4205434517, // Assymetric Force
+                4205434516, // Bright Nostalgia
+                4205434518, // Frictionless Freedom
+                4205434519, // JJ-2 Research Rover
+                4205434515, // Overpacked
+              ],
+            },
+            {
+              name: 'Ships',
+              season: 21,
+              items: [
+                3385828109, // Blooming Terror
+                1810171918, // Kemper Research Model
+                1810171919, // Prototype Submersible
+                1810171917, // Rapid Response
+                1810171915, // Scrivener's Skipper
+                1810171916, // StarRacer 95
+              ],
+            },
+            {
+              name: 'Shaders',
+              season: 21,
+              items: [
+                4279097967, // Methane Explorer
+                4279097966, // Aquatic Iridescence
+                4279097965, // Dreamcycle
+                4279097964, // Solar Shrapnel
+              ],
+            },
+            {
+              name: 'Transmat Effects',
+              season: 21,
+              items: [
+                3809728843, // Resurrected Shadow
+                3809728842, // Unspun Fate
+              ],
+            },
+            {
+              name: 'Finishers',
+              season: 21,
+              items: [
+                2731430472, // From Nowhere
+                4101461867, // Perfect Strike
+                3960449356, // Whirling Chaos
+              ],
+            },
+          ],
+        },
       ],
     },
     {
@@ -662,6 +1099,16 @@ export const collectionDataYear6: CollectionData = {
                 664109750, // Hand in Hand
                 867154247, // Marsilion-C
                 1456017061, // Nasreddin
+              ],
+            },
+            {
+              name: 'Weapons',
+              season: 21,
+              items: [
+                3678653083, // Old Sterling
+                222606050, // Glissando-47
+                1331824604, // Combined Action
+                1106635211, // Last Foray
               ],
             },
           ],
