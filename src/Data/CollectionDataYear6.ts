@@ -585,6 +585,11 @@ export const collectionDataYear6: CollectionData = {
               items: [1063769568, 2966283697, 1685051367, 2797536515, 2400549110], // NPA "Weir-Walker" Set
             },
             {
+              name: 'Deep Dives: Whetstone',
+              season: 21,
+              items: [940371471], // Wicked Implement
+            },
+            {
               name: 'Extras',
               season: 21,
               items: [
@@ -831,7 +836,7 @@ export const collectionDataYear6: CollectionData = {
                   3802939618, // O Fortune Mine (Bad Juju)
                   2919419217, // Omnipotentia (Tractor Cannon)
                   3184365082, // Shiro's Watch (Trespasser)
-                  4289552726, // Whaler's Whim
+                  4289552726, // Whaler's Whim (Wish-Ender)
                 ],
                 [],
                 [
@@ -880,7 +885,6 @@ export const collectionDataYear6: CollectionData = {
                 ],
                 [
                   1553560936, // Ahamkara Skull Projection
-                  1553560937, // Defiant Projection
                   1553560941, // Magic Trick Projection
                   1553560939, // Side Eye Projection
                   1553560938, // Spicy Ramen Projection
@@ -978,6 +982,7 @@ export const collectionDataYear6: CollectionData = {
                   4118865571, // Icthyic Flight (Quicksilver Storm)
                   467730932, // MARA Multi-Tool (MIDA Multi-Tool)
                   683481680, // Vexplosion (Sunshot)
+                  2763305228, // Agkistrodon-5sr (Wicked Implement)
                 ],
                 [],
                 [
