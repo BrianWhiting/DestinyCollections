@@ -703,7 +703,7 @@ export const collectionDataYear6: CollectionData = {
           sets: [
             {
               name: 'Weapons',
-              season: 16,
+              season: 20,
               items: [
                 1389546626, // Taraxippos
                 3559361670, // The Title
@@ -711,7 +711,7 @@ export const collectionDataYear6: CollectionData = {
             },
             {
               name: 'Hunter Armor',
-              season: 16,
+              season: 20,
               items: [
                 [650418244, 597612829, 462395043, 2538781119, 4039169178], // Aspiring Challenger Set
                 [366019830], // Serpent's Glory Mantle
@@ -719,7 +719,7 @@ export const collectionDataYear6: CollectionData = {
             },
             {
               name: 'Titan Armor',
-              season: 16,
+              season: 20,
               items: [
                 [4256854144, 1822927441, 4097505799, 1654077219, 983967254], // Enduring Conqueror Set
                 [537041732], // Lion's Reign Mark
@@ -727,7 +727,7 @@ export const collectionDataYear6: CollectionData = {
             },
             {
               name: 'Warlock Armor',
-              season: 16,
+              season: 20,
               items: [
                 [3159710857, 568239104, 754884040, 3941026874, 2881439013], // Resolute Champion Set
                 [1013401891], // Phoenix's Ascent Bond
@@ -735,7 +735,7 @@ export const collectionDataYear6: CollectionData = {
             },
             {
               name: 'Emotes',
-              season: 16,
+              season: 20,
               items: [
                 133558437, // Championship Dance
                 3632912674, // Curling Shuffle
@@ -747,7 +747,7 @@ export const collectionDataYear6: CollectionData = {
             },
             {
               name: 'Ghosts',
-              season: 16,
+              season: 20,
               items: [
                 [
                   682455839, // Gridiron Shell
@@ -762,7 +762,7 @@ export const collectionDataYear6: CollectionData = {
             },
             {
               name: 'Sparrows',
-              season: 16,
+              season: 20,
               items: [
                 3493861052, // Barnstormer
                 2779499874, // Luminous Paragon
@@ -772,7 +772,7 @@ export const collectionDataYear6: CollectionData = {
             },
             {
               name: 'Ships',
-              season: 16,
+              season: 20,
               items: [
                 1147673599, // Stygian Courser
                 1147673598, // Victor's Palanquin
@@ -780,7 +780,7 @@ export const collectionDataYear6: CollectionData = {
             },
             {
               name: 'Extras',
-              season: 16,
+              season: 20,
               items: [
                 637391773, // Give 'Em the Chair (Finisher)
                 4048242887, // Burnished Acclaim (Shader)
@@ -790,6 +790,100 @@ export const collectionDataYear6: CollectionData = {
             },
           ],
         },
+        {
+          name: 'Solstice',
+          sets: [
+            {
+              name: 'Weapons',
+              season: 21,
+              items: [
+                3240434620, // Something New
+                233896077, // Compass Rose
+                3256453690, // Crowning Duologue
+              ],
+            },
+            {
+              name: 'Hunter Armor',
+              season: 21,
+              items: [
+                [2013981053, 476513004, 1540650548, 1122245142, 2750411529], // Sunlit Set
+                [1323035623, 3564705134, 4269600130, 1352815976, 3493596115], // Refulgent Revelry Ornament Set
+              ],
+            },
+            {
+              name: 'Titan Armor',
+              season: 21,
+              items: [
+                [2851897225, 260425472, 1260041928, 3633213242, 3386596901], // Sunlit Set
+                [3273280393, 681808640, 3573734088, 4054596410, 1405321765], // Refulgent Revelry Ornament Set
+              ],
+            },
+            {
+              name: 'Warlock Armor',
+              season: 21,
+              items: [
+                [4138697980, 1240184693, 1084954603, 2816306775, 4119622018], // Sunlit Set
+                [1640597844, 471426285, 346473619, 717767855, 2976357066], // Refulgent Revelry Ornament Set
+              ],
+            },
+            {
+              name: 'Emotes',
+              season: 21,
+              items: [
+                1229033176, // Liberated Fish
+                586497084, // Double Dutch
+                2693103582, // Guardian Pride
+                4140529506, // Water Balloon
+                605209364, // Solar Reverence
+              ],
+            },
+            {
+              name: 'Ghosts',
+              season: 21,
+              items: [
+                [
+                  510898035, // Festive Nest Shell
+                  510898033, // Finned Shell
+                  510898034, // Flotation Shell
+                ],
+                [
+                  986987532, // Bobbing Buoy Projection
+                ],
+              ],
+            },
+            {
+              name: 'Sparrows',
+              season: 21,
+              items: [
+                3983534175, // Bumper Boat
+                3983534173, // Off My Lawn
+                3983534174, // Sandrail
+              ],
+            },
+            {
+              name: 'Ships',
+              season: 21,
+              items: [
+                3110986887, // Ephemeral Spark
+                3469344438, // Scout Zeppelin
+                3469344439, // Well-Traveled
+              ],
+            },
+            {
+              name: 'Extras',
+              season: 21,
+              items: [
+                1905328541, // Gyroscopic Force (Finisher)
+                1930161380, // Arboreal Refuge (Shader)
+                171635530, // Argent Champion (Shader)
+                171635528, // Hearts of Gold (Shader)
+                171635529, // Principled Porphyry (Shader)
+                1930161381, // Refined Revels (Shader)
+                1095370002, // Hallowed Geometry (Transmat Effect)
+              ],
+            },
+          ],
+        }
       ],
     },
     {
