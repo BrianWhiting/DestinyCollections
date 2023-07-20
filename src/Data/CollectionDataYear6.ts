@@ -880,6 +880,7 @@ export const collectionDataYear6: CollectionData = {
                 171635529, // Principled Porphyry (Shader)
                 1930161381, // Refined Revels (Shader)
                 1095370002, // Hallowed Geometry (Transmat Effect)
+                2069797993, // Sunkissed (Emblem)
               ],
             },
           ],
