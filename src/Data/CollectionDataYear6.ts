@@ -1434,7 +1434,7 @@ export const collectionDataYear6: CollectionData = {
           sets: [
             {
               name: 'Weapons',
-              season: 18,
+              season: 22,
               items: [
                 177568179, // Horror Story
                 3103255595, // Jurassic Green
@@ -1444,28 +1444,28 @@ export const collectionDataYear6: CollectionData = {
             },
             {
               name: 'Hunter Armor',
-              season: 18,
+              season: 22,
               items: [
                 [2669452287, 2603319494, 2273494378, 2586806208, 2910312059], // Mygalomorph Set
               ],
             },
             {
               name: 'Titan Armor',
-              season: 18,
+              season: 22,
               items: [
                 [2015081171, 3844528610, 765946822, 1593707036, 1083938223], // Crawling Chaos Set
               ],
             },
             {
               name: 'Warlock Armor',
-              season: 18,
+              season: 22,
               items: [
                 [1082381334, 2286474983, 4256068881, 1039280681, 2156531500], // Carapace Set
               ],
             },
             {
               name: 'Masks',
-              season: 18,
+              season: 22,
               items: [
                 1808095284, // Calus Mask
                 1808095287, // Clovis Bray Mask
@@ -1479,7 +1479,7 @@ export const collectionDataYear6: CollectionData = {
             },
             {
               name: 'Emotes',
-              season: 18,
+              season: 22,
               items: [
                 [
                   1390684733, // Pumpkin Carving
@@ -1493,7 +1493,7 @@ export const collectionDataYear6: CollectionData = {
             },
             {
               name: 'Ghosts',
-              season: 18,
+              season: 22,
               items: [
                 [
                   3299468272, // Confection Shell
@@ -1509,7 +1509,7 @@ export const collectionDataYear6: CollectionData = {
             },
             {
               name: 'Sparrows',
-              season: 18,
+              season: 22,
               items: [
                 2149696880, // Stygian Steed
                 2149696881, // The Mourner
@@ -1518,7 +1518,7 @@ export const collectionDataYear6: CollectionData = {
             },
             {
               name: 'Ships',
-              season: 18,
+              season: 22,
               items: [
                 346066663, // Nyxpterón
                 61740555, // Extra-Terrestrial Vehicle
@@ -1527,13 +1527,103 @@ export const collectionDataYear6: CollectionData = {
             },
             {
               name: 'Extras',
-              season: 18,
+              season: 22,
               items: [
                 3696163951, // Bashing Pumpkins (Finisher)
                 2355278665, // Clinging Cobweb (Shader)
                 3586026952, // Magical Transformation (Shader)
                 2355278664, // Roseate Gleam (Shader)
                 1298644738, // Sugar Rush (Transmat Effect)
+              ],
+            },
+          ],
+        },
+        {
+          name: 'The Dawning',
+          sets: [
+            {
+              name: 'Weapons',
+              season: 23,
+              items: [
+                1891321753, // Stay Frosty
+                3206190066, // Cold Front
+                2728851518, // Glacioclasm
+                2680976411, // Albedo Wing
+                4220529694, // Avalanche
+                1911078836, // Zephyr
+              ],
+            },
+            {
+              name: 'Hunter Armor',
+              season: 23,
+              items: [3395525649, 2012077288, 3820128352, 3113416514, 3130164381], // Polar Predator's Set
+            },
+            {
+              name: 'Titan Armor',
+              season: 23,
+              items: [2611348487, 557947534, 2158080418, 3065586312, 1381973235], // Snowplume Set
+            },
+            {
+              name: 'Warlock Armor',
+              season: 23,
+              items: [1929891160, 2393591593, 1673857967, 2219602427, 3387050814], // Opulent Strix Set
+            },
+            {
+              name: 'Emotes',
+              season: 23,
+              items: [
+                4266295281, // Angelic Wings
+                3527716502, // Sneaky Thief
+                588138826, // Falling Flurries
+                995900888, // Slippery Patch
+                2335022422, // Tacky Sweater
+                3911560897, // Excited Elf
+              ],
+            },
+            {
+              name: 'Ghosts',
+              season: 23,
+              items: [
+                [
+                  1511744862, // Cygnus Shell
+                  1511744863, // Icy Elegance Shell
+                  1511744861, // Ornamental Shell
+                ],
+                [
+                  1929721158, // Portable Warmth
+                  1929721159, // Tundra Guide
+                ],
+              ],
+            },
+            {
+              name: 'Sparrows',
+              season: 23,
+              items: [
+                2094466369, // Divine Messenger
+                2094466371, // Frostflower
+                2094466368, // Supercool Moto
+              ],
+            },
+            {
+              name: 'Ships',
+              season: 23,
+              items: [
+                159093681, // Hiera Hodos
+                2531130673, // Filigree Rover
+                2531130672, // Icechime
+              ],
+            },
+            {
+              name: 'Extras',
+              season: 23,
+              items: [
+                3432146796, // Chill Out (Finisher)
+                3214073080, // Dawning Élan (Shader)
+                3214073081, // Dawning Mirth (Shader)
+                814520772, // Dawning Panache (Shader)
+                2117628185, // Rime Keepsake (Shader)
+                2420432880, // Festive Entrance (Transmat Effect)
+                1465090512, // Points of Light (Emblem)
               ],
             },
           ],
